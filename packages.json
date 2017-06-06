@@ -3654,5 +3654,25 @@
         "prelude"
     ],
     "version": "v9.3.0"
+  },
+  "affjax": {
+    "repo": "https://github.com/slamdata/purescript-affjax.git",
+    "dependencies": [
+        "unsafe-coerce",
+        "refs",
+        "nullable",
+        "media-types",
+        "math",
+        "integers",
+        "http-methods",
+        "form-urlencoded",
+        "foreign",
+        "dom",
+        "arraybuffer-types",
+        "argonaut-core",
+        "aff",
+        "prelude"
+    ],
+    "version": "v4.0.0"
   }
 }
